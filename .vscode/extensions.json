@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "svelte.svelte-vscode",
+    "msjsdiag.debugger-for-chrome",
+    "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
